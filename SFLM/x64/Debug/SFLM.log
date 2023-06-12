@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (SFLM.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\Andri\Desktop\C++\sf\SFLM\Source.cpp(76,13): error C2144: syntax error: 'auto' should be preceded by ')'
+C:\Users\Andri\Desktop\C++\sf\SFLM\Source.cpp(76,9): error C3861: 'fo': identifier not found
+C:\Users\Andri\Desktop\C++\sf\SFLM\Source.cpp(76,13): error C2144: syntax error: 'auto' should be preceded by ';'
+C:\Users\Andri\Desktop\C++\sf\SFLM\Source.cpp(76,1): error C2530: 'client': references must be initialized
+C:\Users\Andri\Desktop\C++\sf\SFLM\Source.cpp(76,1): error C3531: 'client': a symbol whose type contains 'auto' must have an initializer
+C:\Users\Andri\Desktop\C++\sf\SFLM\Source.cpp(76,26): error C2143: syntax error: missing ';' before ':'
+C:\Users\Andri\Desktop\C++\sf\SFLM\Source.cpp(76,26): error C2059: syntax error: ':'
+C:\Users\Andri\Desktop\C++\sf\SFLM\Source.cpp(76,1): error C2059: syntax error: ')'
+C:\Users\Andri\Desktop\C++\sf\SFLM\Source.cpp(76,1): error C2143: syntax error: missing ';' before '{'
